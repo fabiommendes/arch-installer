@@ -1,0 +1,136 @@
+# python
+python-pip
+python-ply
+cython
+python-kivy
+python-tox
+python-virtualenv
+python-virtualenvwrapper
+python-sphinx
+python-sphinx_rtd_theme
+ipython
+python-docs
+jupyter
+jupyter-nbconvert
+jupyter-notebook
+python-qtconsole
+flake8
+python-pylint
+autopep8
+pip/cppman
+bash/sudo cppman -c 
+
+# games
+aur/python-pygame
+pip/FGAme
+pip/smallvectors==0.6.3
+pip/smallshapes
+sdl2
+sdl2_gfx
+sdl2_image
+sdl2_mixer
+sdl2_net
+sdl2_ttf
+sdl
+sdl_gfx
+sdl_image
+sdl_mixer
+sdl_net
+sdl_ttf
+
+# tools
+git
+colorgcc
+docker
+vagrant
+virtualbox
+
+# scipy
+python-numpy
+python-scipy
+python-sympy
+python-matplotlib
+python-scikit-learn
+python-nltk
+python-tensorflow
+python-pytest
+aur/python-gensim
+aur/python-orange
+aur/python-orange-timeseries
+
+# c
+gcc
+clang
+tcc
+automake
+make
+cmake
+base-devel
+aur/cint
+
+# webassembly
+emscripten
+aur/binaryen
+
+# julia
+julia
+julia-docs
+
+# haskell
+ghc
+
+# elm
+yarn/elm
+yarn/create-elm-app
+yarn/elm-format
+
+# js
+yarn
+npm
+mathjax
+
+# ruby
+ruby
+ruby-docs
+vim-rails
+
+# qt
+qt5-svg
+qt5-webkit
+python-pyqt5
+python-qscintilla-qt5
+
+# rust
+cargo
+rust
+
+# java
+jdk8-openjdk
+openjdk8-doc
+eclipse-java
+
+# latex
+lyx
+texlive-core
+texlive-publishers
+texlive-science
+
+# editors
+spyder3
+atom
+codeblocks
+vim
+vim-jedi
+arduino
+meld
+aur/visual-studio-code
+
+# net
+ttf-roboto
+ttf-croscore
+sqlitebrowser
+aur/google-chrome
+
+# server
+nginx
+redis
